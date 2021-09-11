@@ -1,0 +1,25 @@
+
+body {
+  background: linear-gradient(#d9e7ff,#b791ff)fixed;
+  color opacity: .5;
+}
+
+.Maine, .Arkansas, .Kansas, .Maryland, .Alaska {
+  font-family: "courier";
+  font-size: 30px;
+  margin: 20px;
+}
+
+p {
+  font-size: 15px;
+  width: 800px;
+}
+
+.title{
+  color: white;
+}
+
+h1 {
+  color:#3d0b99;
+  text-align: center;
+}
