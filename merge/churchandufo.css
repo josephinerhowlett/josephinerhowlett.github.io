@@ -1,0 +1,18 @@
+img {
+  width: 40%;
+}
+
+.ufo {
+  padding: 0px 20px 0px 100px;
+}
+
+.church {
+  padding: 0px 100px 0px 20px;
+}
+
+.both {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
