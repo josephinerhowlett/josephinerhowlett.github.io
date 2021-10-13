@@ -1,0 +1,40 @@
+#title {
+  font-family: Verdana;
+  font-weight: bold;
+  margin: 20px;
+  text-align: center;
+  font-size: 170%;
+  color: #41798a;
+}
+
+body {
+  background-color: #d1e9f0;
+}
+
+.apple {
+  height: 225px;
+  margin-left: 150px;
+}
+
+.espn {
+  height: 225px;
+}
+
+.nasa {
+  height: 225px;
+}
+
+ul {
+  display: inline;
+  padding:20px;
+}
+
+p {
+  font-weight: normal;
+  font-size: 50%;
+  text-indent: 50px;
+}
+
+a {
+  color: red;
+}
