@@ -1,0 +1,201 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Georgia;
+  color: #666;
+}
+
+#homepagetext {
+  font-size: 125%;
+}
+
+p a {
+  text-decoration: none;
+}
+
+.homepagesign {
+  width: 50%;
+  height: auto;
+  margin-left: 275px;
+}
+
+.homepageul {
+  background-color: #eb9a7e;
+  padding: 20px;
+  text-align: center;
+}
+
+.homepageul a {
+  text-decoration: none;
+  font-size: 150%;
+  padding: 20px;
+  color: white;
+}
+
+.homepageul a:hover {
+  background-color: #fffff5;
+  color: #eb9a7e;
+}
+
+.homepageul li {
+  display: inline;
+  margin: 0px;
+}
+
+.homepagefooter {
+  background-color: #eb9a7e;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
+#wrap {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.autumnul {
+  background-color: #dd7e5d;
+  padding: 20px;
+  text-align: center;
+}
+
+.autumnul a {
+  text-decoration: none;
+  font-size: 150%;
+  padding: 20px;
+  color: white;
+}
+
+.autumnul a:hover {
+  background-color: #fffff5;
+  color: #dd7e5d;
+}
+
+.autumnul li {
+  display: inline;
+}
+
+.autumnfooter {
+  background-color: #dd7e5d;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
+.autumnpic {
+  width: 40%;
+  height: auto;
+  float: right;
+  padding: 20px;
+}
+
+body p {
+  font-size: 125%;
+  text-indent: 50px;
+  line-height: 1.5;
+}
+
+.springul {
+  background-color: #7bbe75;
+  padding: 20px;
+  text-align: center;
+}
+
+.springul a {
+  text-decoration: none;
+  font-size: 150%;
+  padding: 20px;
+  color: white;
+}
+
+.springul a:hover {
+  background-color: #fffff5;
+  color: #7bbe75;
+}
+
+.springul li {
+  display: inline;
+
+}
+
+.springfooter {
+  background-color: #7bbe75;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
+.springpic {
+  object-fit: cover;
+  width:350px;
+  height:270px;
+  float: right;
+  padding: 20px;
+}
+
+.summerul {
+  background-color: #d391e4;
+  padding: 20px;
+  text-align: center;
+}
+
+.summerul a {
+  text-decoration: none;
+  font-size: 150%;
+  padding: 20px;
+  color: white;
+}
+
+.summerul a:hover {
+  background-color: #fffff5;
+  color: #d391e4;
+}
+
+.summerul li {
+  display: inline;
+}
+
+.summerfooter {
+  background-color: #d391e4;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
+.summerpic {
+  width: 45%;
+  height: auto;
+  float: right;
+  padding: 20px;
+}
+
+.winterul {
+  background-color: #95bcd5;
+  padding: 20px;
+  text-align: center;
+}
+
+.winterul a {
+  text-decoration: none;
+  font-size: 150%;
+  padding: 20px;
+  color: white;
+}
+
+.winterul a:hover {
+  background-color: #fffff5;
+  color: #95bcd5;
+}
+
+.winterul li {
+  display: inline;}
+
+.winterfooter {
+    background-color: #95bcd5;
+    color: white;
+    text-align: center;
+    padding: 15px;
+  }
+
+}
