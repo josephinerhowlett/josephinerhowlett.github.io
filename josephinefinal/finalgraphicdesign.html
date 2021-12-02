@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Graphic Design</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EW0B9L9R8D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EW0B9L9R8D');
+</script>
+  <link rel="stylesheet" href="themes/default/default.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="themes/light/light.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="themes/dark/dark.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="themes/bar/bar.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="nivo-slider.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="final.css">
+ </head>
+
+<body>
+  <div id="wrap">
+
+
+    <header>
+      <img src="graphicdesignheader.png" alt="Header for Index page">
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="final.html">HOME</a></li>
+        <li><a href="finalphotography.html">PHOTO GALLERY</a></li>
+        <li><a href="finalgraphicdesign.html">GRAPHIC DESIGN</a></li>
+        <li><a href="finalpublications.html">PUBLICATION</a></li>
+        <li><a href="finalabout.html">ABOUT</a></li>
+        <li><a href="finalcontact.html">CONTACT</a></li>
+      </ul>
+    </nav>
+
+
+
+    <section class="slideshowsection">
+      <p>
+        My major allows me to use Adobe products frequently in class assignments, but I also enjoy working on things on my free time. In high school, I generally used Adobe Photoshop, Indesign, and Premiere Pro CC. Just awhile ago, I was introduced to Adobe Illustrator. Please enjoy three of my most recent creations.
+      </p>
+      <div class="slider-wrapper theme-default">
+          <div id="slider" class="nivoSlider" data-transition="slideInLeft" >
+              <img src="finalslideshowimages/howlettkerfamily.jpg" data-thumb="finalslideshowimages/howlettkerfamily.jpg" alt="" title="#htmlcaption1"
+              data-transition="slideInLeft" />
+              <img src="finalslideshowimages/hunterhayes.png" data-thumb="finalslideshowimages/hunterhayes.png" alt="" title="#htmlcaption2" data-transition="slideInLeft" />
+              <img src="finalslideshowimages/shelanniversary.png" data-thumb="finalslideshowimages/shelanniversary.png" alt="" title="#htmlcaption3" data-transition="slideInLeft" />
+          </div>
+          <div id="htmlcaption1" class="nivo-html-caption">
+              A family portrait of my family and my brother's family that I made for Christmas on Adobe Illustrator.
+          </div>
+          <div id="htmlcaption2" class="nivo-html-caption">
+              My social media assignment from my Spring 2021 Digital Publishing class.
+          </div>
+          <div id="htmlcaption3" class="nivo-html-caption">
+              Another Adobe Illustrator portrait, this time for my boyfriend and our anniversary.
+          </div>
+      </div>
+    </section>
+
+    <script type="text/javascript" src="scripts/jquery-1.9.0.min.js"></script>
+    <script type="text/javascript" src="jquery.nivo.slider.js"></script>
+    <script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider();
+    });
+    </script>
+</body>
+
+</html>
