@@ -199,12 +199,15 @@ section {
   margin-top: 0;
 
 }
+.publicationarticlequery {
+  float: none;
+  display: block;
+}
 
 .one, .two {
   float: none;
   width:95%;
 }
-
 
 .publicationaside {
   width: 25%;
