@@ -200,6 +200,11 @@ section {
 
 }
 
+.one, .two {
+  float: none;
+  width:95%;
+}
+
 
 .publicationaside {
   width: 25%;
