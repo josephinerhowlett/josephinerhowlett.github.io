@@ -462,6 +462,16 @@ h1 {
   	font-weight:bold;
   }
 
+  
+  .publicationarticlequery {
+  float: none;
+  display: block;
+}
+
+.one, .two {
+  float: none;
+  width:95%;
+}
 
   article, .publicationarticle {
     width: 100%;
